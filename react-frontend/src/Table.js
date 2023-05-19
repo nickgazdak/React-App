@@ -1,7 +1,5 @@
 import React from 'react'
 
-
-
 function Table (props) {
   return (
     <table>
@@ -10,8 +8,6 @@ function Table (props) {
     </table>
   );
 }
-
-
 
 function TableHeader()  {
     return (
